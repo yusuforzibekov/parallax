@@ -1,1 +1,2 @@
 # Parallax
+I would like to share my code for a website that has become my favorite. I have completely redesigned its interface and appearance. Despite these changes, it loads smoothly, and you can enjoy the new look.
